@@ -2,7 +2,7 @@
 ! Checksum: AV+Y/oj6QZb6rtVzX46ODw
 ! Version: 20150615
 ! Title: China Mobile List
-! Chinese supplement for the EasyList filters
+! Chinese supplement for the AdBlock filters
 ! Last Modified: 15 June 2015 10:22 UTC
 ! Expires: 5 days (update frequency)
 !
