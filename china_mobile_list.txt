@@ -9,8 +9,8 @@
 ! Please report any unblocked adverts or problems
 ! or via e-mail (jinsong.van@gmail.com).
 !
-! Fork of: ChinaList https://github.com/chinalist/chinalist
-!  Sun, 31 Mar 2015 09:28:37 +0800
+! Fork of: ChinaList https://github.com/JinsongVan/chinalist
+!  Mon, 15 June 2015 09:08:37 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
