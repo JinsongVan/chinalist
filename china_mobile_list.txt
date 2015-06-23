@@ -1,16 +1,16 @@
 ! AdBlock Plus 2.1]
 ! Checksum: AV+Y/oj6QZb6rtVzX46ODw
-! Version: 20150615
+! Version: 20150623
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 15 June 2015 10:22 UTC
+! Last Modified: 23 June 2015 11:02 UTC
 ! Expires: 5 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail (jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Mon, 15 June 2015 09:08:37 +0800
+!  Tue, 23 June 2015 11:02:37 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -63,7 +63,6 @@
 /zzsimg/13.gif
 37cs.com
 a.rlxl.com/list/
-gmttime$"}
 googleadsserving.cn/pagead/*
 gs37.com
 http://*.adpro.cn/*
@@ -100,7 +99,6 @@ union.rlxl.com/
 ||115img.com/static/delivery/
 ||115mm.com/js/
 ||117.79.3.111/wj/
-||118...4^
 ||119.17.73./m_code/
 ||11zz.com/js/ddd.js
 ||13.139.155.9/mu/images/ad_bg_red.jpg
@@ -4121,4 +4119,5 @@ zhidao.baidu.com##UL[class="as-list ui-slider"]
 zol.com.cn##DIV[class="google-ad"]
 zol.com.cn##SECTION[class="download-pop"]
 zhidao.baidu.com##DIV[class="we5si7uixx"]
+zuoye.baidu.com##DIV[class="app-ads"]
 !************* The End **************!
