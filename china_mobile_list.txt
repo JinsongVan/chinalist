@@ -1,16 +1,16 @@
 ! AdBlock Plus 2.1]
 ! Checksum: AV+Y/oj6QZb6rtVzX46ODw
-! Version: 20150623
+! Version: 20150630
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 23 June 2015 11:02 UTC
+! Last Modified: 30 June 2015 16:25 UTC
 ! Expires: 5 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail (jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Tue, 23 June 2015 11:02:37 +0800
+!  Tue, 30 June 2015 16:25:37 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -412,6 +412,7 @@ union.rlxl.com/
 ||a.tbcdn.cn/s/tb-tracer-min.js
 ||a.xizi.com^
 ||a.youdao.com^
+||a4.peoplecdn.cn/04ab97aefa8bd0e94080fa5dbeb5e3b0.jpg
 ||a3.peoplecdn.cn/ea554b8591f349a5fdfcaec38cf.jpg
 ||a4.yeshj.com^
 ||a5.yeshj.com^
@@ -3136,6 +3137,8 @@ loto.sina.cn##DIV[class="app"]
 loto.sina.cn##DIV[class="push"]
 lvmama.com##DIV[class="down_logo_bg"]
 lvyou.baidu.com##DIV[id="book"]
+m2.people.cn##DIV[class="code_ad"]
+m2.people.cn##DIV[class="img_ad"]
 m.111.com.cn##DIV[class="app_box"]
 m.17173.com##A[class="top-ad-con ui-link"]
 m.17173.com##SPAN[class="to-download-app"]
@@ -3504,6 +3507,7 @@ m.sohu.com##DIV[class="Bread_crumbs"]
 m.sohu.com##DIV[class="_tg"]
 m.sohu.com##DIV[class="ad13918"]
 m.sohu.com##DIV[class="footerAd"][id="tip"]
+m.sohu.com##DIV[class="h4 hot-point-money"]
 m.sohu.com##DIV[class="ls bd1"]
 m.sohu.com##DIV[class="w a3"]
 m.sohu.com##DIV[id="article-ad-1"][class="ads-3"]
@@ -3597,6 +3601,7 @@ m.vip.com##DIV[class="HcupEwLv"]
 m.vip.com##DIV[class="i_client hide"]
 m.vip.com##DIV[class="i_client"]
 m.vip.com##DIV[class="modal ui-modal-advertiseBottom"]
+m.vip.com##DIV[class="UWAeAAhK"]
 m.vip.com##DIV[id="addToHomeScreen"][class="addToHomeIphone"]
 m.vipshop.com##DIV[class="i_client"]
 m.vipshop.com##DIV[class="i_client_head"]
@@ -3735,6 +3740,7 @@ sina.cn##DIV[class="j_sax sina_tj_baner"]
 sina.cn##DIV[id="j_adImgUp"]
 sina.cn##DIV[id="j_ad_img_swipe"][class="ad_swipe"]
 sina.cn##DIV[id="promotionCover"][class="promotion_cover main"]
+sina.cn##IFRAME[style="border: 0px;]
 sina.cn##IMG[src="http://d.sina.com.cn/pfpghc/a398458314f4b5fb9ac4edade4a.jpg"]
 sina.cn##IMG[src="http://d1.sina.com.cn/131/5/518113__3X35.jpg"]
 sina.cn##IMG[src="http://d1.sina.com.cn/1411//585.jpg"]
@@ -3799,6 +3805,7 @@ tieba.baidu.com##LI[class^="first_floor_ad_"]
 top.sina.cn##DIV[class="promotion_cover share"][id="promotionCover"]
 touch.17u.cn##DIV[class="ofix"]
 touch.17u.cn##DIV[class="tc-download"]
+touch.dujia.qunar.com##DIV[id="jq-appendDIV"]
 touch.lvtu.qunar.com##A[id="albumd"][class="goback ui-btn-right"]
 touch.lvtu.qunar.com##A[id="indexd"][class="ui-btn-right appstore"]
 touch.piao.qunar.com##DIV[class="mp-download"]
