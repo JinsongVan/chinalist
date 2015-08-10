@@ -1,16 +1,16 @@
 ! AdBlock Plus 2.1]
 ! Checksum: AV+Y/oj6QZb6rtVzX46ODw
-! Version: 20150630
+! Version: 20150810
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 30 June 2015 16:25 UTC
+! Last Modified: 10  Aug. 2015 17:34 UTC
 ! Expires: 5 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail (jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Tue, 30 June 2015 16:25:37 +0800
+!  Mon, 10 Aug. 2015 17:34:37 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -1305,6 +1305,7 @@ union.rlxl.com/
 ||images.jurong.cn/bbs/
 ||images.mydrivers.com/9
 ||images.newsmth.net/nForum/files/adv/
+||images.xxsy.net/mxxsynet/jingxuan.jpg
 ||images.sohu.com/bill/
 ||images.sohu.com/cs/
 ||images.sohu.com/saf/a14/*/wKiDRFSQ-DyABdTNAABan31oR8A974x1.jpg
@@ -2784,8 +2785,9 @@ union.rlxl.com/
 3g.baihe.com##A[href="http://www.91jianjian.com/emd9.html"]
 3g.baihe.com##DIV[id="show_adver"]
 3g.china.com##DIV[class="adclass"]
-3g.china.com##DIV[class="an-"]
+3g.china.com##DIV[class^="an-"]
 3g.china.com##DIV[id="topAD"][class="topAD"]
+3g.china.com###tanx-fold-main
 3g.cn##A[class="pic-ad"]
 3g.cn##A[class="worldCup_flyBall"]
 3g.cn##A[href="http://da.3g.cn/s.php?idf=49.1.17.171&sid=&waped=9&gaid=&rd=141991114&"]
@@ -3163,6 +3165,7 @@ m.51buy.com##SECTION[class="m_appdl_tem m_appdl_tem1 J_app_hide y_cb"]
 m.51job.com##DIV[id="addToHomeScreen"][class="addToHomeIphone addToHomeWide"]
 m.51job.com##SECTION[class="top_AD"]
 m.55bbs.com##DIV[class="bottom-app-wrap"]
+m.56.com###footerFixedShow
 m.58.com##A[href="http://api.wireless.58.com/api/redirect/down/489"]
 m.58.com##A[href="http://www.fanqie.com/51channel?id=4"]
 m.58.com##A[href^="http://www.fanqie.com/51channel?id="]
@@ -3403,6 +3406,8 @@ m.lengxiaohua.com##IMG[class="ad_app_a"]
 m.letv.com##DIV[class="app"]
 m.letv.com##DIV[id="j-dltips"]
 m.letv.com##DIV[id="j-smart"]
+m.letv.com##DIV[id="j-smartnew"]
+m.letv.com##DIV[style="background-color:#5e0000"]
 m.lvmama.com##DIV[id="downPush"][class="down_push"]
 m.lx18.com##DIV[class="A14_1413W"]
 m.lx18.com##DIV[class="baiduad"] 
@@ -3474,6 +3479,7 @@ m.pptv.com##DIV[id^="afp_"][class="mpptv_ads"]
 m.qidian.cn##DIV[class="topTxt1"]
 m.qidian.cn##P[class="ad-img"]
 m.qidian.com##DIV[class="ad-text"]
+m.qidian.com##.app_download
 m.qidian.com##DIV[id="downappbox"]
 m.qidian.com##DIV[id="goappreaderAndroid"][class="see_app"]
 m.qidian.com##DIV[id="mFooterAd"][class="float-ad"]
@@ -3559,12 +3565,11 @@ m.toutiao.com##DIV[class="wapapp-index-bottom-banner"]
 m.toutiao.com##DIV[id="app"]
 m.toutiao.com##DIV[id="recommendAds"][class="jqmWindow jqmID1"]
 m.toutiao.com##DIV[id="recommendAds"][class="jqmWindow jqmID3"]
+m.toutiao.com##.promo-banner-index
 m.tuniu.com##DIV[class="app_down"]
 m.tuniu.com##DIV[id^="appHeader_"][class="app-header clearfix"]
 m.tuniu.com,dynamic.m.tuniu.com##DIV[class="ad_top"][id="adTop"]
-m.tv.sohu.com##A[class="app_download app_download_ diors"]
-m.tv.sohu.com##A[class="app_download app_download_"]
-m.tv.sohu.com##A[class="app_download app_download_marathon"]
+m.tv.sohu.com##A[class^="app_download app_download_"]
 m.tv.sohu.com##A[class="sohuapp_download app_download_"]
 m.tv.sohu.com##A[id="new_ad_appdownload"][class="sohuapp_download app_download_"]
 m.tv.sohu.com##DIV[class="app_notice_bar"]
@@ -3573,6 +3578,7 @@ m.tv.sohu.com##DIV[class="fixed_pinner hots_pinner show"]
 m.tv.sohu.com##DIV[class="quiz_section"]
 m.tv.sohu.com##DIV[class="voice_pinner show"]
 m.tv.sohu.com##SPAN[class="button app_download_link"]
+m.tv.sohu.com##DIV[class="js_sh_app_dl_index top_banner"]
 m.tv189.com##ARTICLE[class="area_content"]
 m.tv189.com##DIV[class="nav1"]
 m.tv189.com##DIV[class="silder_items"]
@@ -3621,6 +3627,8 @@ m.xilu.com##DIV[class="wapgg"]
 m.xinjunshi.com##DIV[class="tops"]
 m.xiu.com##DIV[class="down-app"]
 m.xxsy.net##A[href="http://down.xxsy.net/xxsy.apk"]
+m.xxsy.net##DIV[style="width:95%; margin: 6px auto 0; padding:0;"]
+m.xxsy.net##DIV[style="padding:10px 0"]
 m.yiche.com##DIV[class="m-head-app-download"]
 m.yiche.com##DIV[id="app-download"][class="m-fixed-app-download"]
 m.yiche.com##DIV[id="app-mask"][class="m-fixed-app-mask"]
@@ -3649,6 +3657,7 @@ m.zhuna.cn##DIV[id="banne"][class="special"]
 m.zol.com.cn##A[class="download zol-app-download-link"]
 m.zol.com.cn##DIV[class="articles ad-articles"]
 m.zol.com.cn##SECTION[class="download-pop"]
+m.zongheng.com###apkdown
 m.zongheng.com##A[href="http://m.aicai.com/b/ssq.do?agentId=33387&vt=5"]
 m.zongheng.com##A[href="http://wap.cmread.com/r/p/read4year.jsp?vt=3&cm="]
 m195.cn##DIV[class="ad screem4"]
