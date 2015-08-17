@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150812
+! Version: 20150817
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 12  Aug. 2015 10:10 UTC
-! Expires: 5 days (update frequency)
+! Last Modified: 17 Aug. 2015 14:53 UTC
+! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
-! or via e-mail (jinsong.van@gmail.com).
+! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Wed, 12 Aug. 2015 10:10:50 +0800
+!  Mon, 17 Aug. 2015 14:53:46 + 0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -24,9 +24,13 @@
 /201505/f6e72f32889a2641e7ee3bcdb1d99ee0.png
 /201507/74f10013d7fae902b67424286c12e313.jpg
 /Content/Html5V3/images/H5_tuijian.jpg
+/DB2927DA968D3599D7126C59B2CF6595
 /Files/ff/gg_635586462692207490.jpg
 /Picture/20150805_105313433.jpg
+/ShowWindow/toolBarWeb.jsp
+/act/20150707/20150707/20150707.jpg
 /act/20150727/20150727/2.jpg
+/act/20150809/20150809/4.png
 /ad.gif
 /adjs/
 /adpolestar/
@@ -43,9 +47,12 @@
 /att_count.js
 /baidu/pic/item/f31fbe096b63f6241c70c7ff8244ebf81a4ca319.jpg
 /baike/pic/item/aceddc451da81cb94359f7451d18431b3.jpg
+/bao/150812/b/0/55cb24767f971_656x656.jpg
 /blablaBanner/img/blablaLogo_81f91a.png
 /caipiao/wap/img/downButton.png
 /caipiao/wap/img/touchLogo2.png
+/channel12/020394/620100_0.jpg
+/channel5/020222/600100a_150813.jpg
 /clicktotal/ClickTotal.js
 /creative/creative/u2/294/ieafxqc0.ugd_2015427.jpg
 /danchuang.js
@@ -82,6 +89,7 @@
 /media/v1/0f000KHjStB1GbizU8I3N0.jpg
 /media/v1/0f000KnNg0laqBua6sr0S0.jpg
 /mmc/a368b48f634681bd4f4dedaeb8e6bde535580.png 	
+/news/pic/item/0b55b319ebc4b745a6e4912ecafc1e178a821591.png
 /pad/images/banner.jpg
 /party/default/40fcc28a648e0d3c2441b3aacb66ad2a.png
 /piaofu.js
@@ -107,6 +115,7 @@
 /ting/pic/item/1e30e924b899a9018b773cd719950a7b0308f595.jpg
 /tlbsserver/jsreq
 /toolbar/show.bar
+/toolbar/zte-toolbar-iframe.js
 /topad.
 /touch/images/ico-close01.png
 /tvmobilemvms/20150617/143450506079097950.jpg
@@ -2817,6 +2826,7 @@ union.rlxl.com/
 14.sina.cn##DIV[class="olympics_baner"]
 14.sina.cn##IMG[src="http://n.sinaimg.cn/14/qy_banner.jpg"]
 14.sina.cn##LI[class="article_push_pic"]
+163.com###atiJdAdContainer
 17173.tv.sohu.com##DIV[class="clientPop cf"]
 1cn.com##DIV[class="ad"]
 1cn.com##DIV[class="ad_test"]
@@ -3090,6 +3100,8 @@ easou.com##DIV[id^="ad_"][class^="ad_"]
 easou.com##IMG[src^="/ta/resources/imgs/novel/banner"]
 easou.com##P[class="easou_nt"]
 easou.com##SECTION[id="ecomBottom"]
+ent.163.com###atiAdMixed02
+ent.163.com###atiAdRandom01
 ent.ifeng.com##DIV[class="ad3 m_t_1"]
 ent.ifeng.com##DIV[class="col_ad"]
 ent.ifeng.com##DIV[class="iphone_block pc_none ipad_none"]
@@ -3305,6 +3317,7 @@ m.babytree.com##DIV[id="app_mask"][class="wap-global-bottom"]
 m.babytree.com##IMG[src="http://static.babytreeimg.com/mobile/img/app/top-ad15-pregnancy_1.png"]
 m.babytree.com##UL[class="down-recommend"]
 m.baidu.com###page_copyright + div
+m.baidu.com##.page_view_btmad
 m.baidu.com##A[class="menu-down"]
 m.baidu.com##A[class="poster_tonglan"]
 m.baidu.com##A[id="xs-promot-item3"][class="xs-noperate-a"]
@@ -3486,6 +3499,8 @@ m.joy.cn##A[href^="http://gzpigs.com/ad.do?cpcode="]
 m.joy.cn##DIV[class="con-3"]
 m.joy.cn##DIV[id="top"]
 m.jrj.com.cn##DIV[class="fboxnew"]
+m.juanpi.com###alert-box
+m.juanpi.com###zhezhao
 m.juanpi.com##.go-app
 m.jumei.com##A[href="http://d.jumei.com"]
 m.jumei.com##DIV[class="jumei_location"][id="jumei_location"]
@@ -3684,6 +3699,8 @@ m.soufun.com##DIV[id="downapp"][class="none"]
 m.soufun.com##DIV[id="downclient"][class="none"]
 m.souyidai.com###AppBanner
 m.suning.com##.app-down
+m.suning.com##.f-l-o-a-t-s-a-l-e.hide
+m.suning.com##.igkegg.w.pr
 m.suning.com##.sn-client-t.detail-fi-xed.hide
 m.suning.com##DIV[class="top-dload w pr"]
 m.sunning.com##DIV[class="download w pr"]
@@ -3880,6 +3897,8 @@ news.sina.cn##A[href^="http://sports1.sina.cn/luckygame/?from="]
 news.sina.cn##DIV[class="advertise"]
 news.sina.cn##DIV[class="promotion_cover share"][id="promotionCover"]
 news.sina.cn##DIV[id="j_generalize"]
+newsmth.net###left_adv
+newsmth.net##.Smthtwenty_float
 novel.wap.soso.com##DIV[class="soso_ad"]
 novel.wap.soso.com##INS[class="adsbygoogle"]
 pan.baidu.com##A[id="welcomeAd"][class="welcomead wx-download"]
@@ -3906,6 +3925,7 @@ sina.cn##A[class="ad_client j_client"]
 sina.cn##A[class="ad_client"]
 sina.cn##A[href$="url=http%3a%f%fc.admaster.com.cn%fc%fa149,b3449,c134,i,m11,h%7bwb_uid_md5%7d,u&pos=18&vt=4"]
 sina.cn##A[href^="http://.1.184.178/redirect.php?url="]
+sina.cn##A[id^="jdAdplace"]
 sina.cn##A[style="display:block;background:rgb5, 5, 5;"]
 sina.cn##BODY > A:first-child
 sina.cn##DIV[class="ad_baner j_imgdelay"]
@@ -3927,6 +3947,7 @@ slide.astro.sina.com.cn##DIV[style="width:1px;margin:1px auto 1px;"]
 smart.mail.1.com##DIV[id="apkDown"]
 smart.mail.13.com##DIV[id="apkDown"]
 sogou.com###zhuanqu
+sohu.com##.bottomSection.J_bottomSection
 southcn.com##DIV[class="Gs4"]
 sp.wap.19lou.com##DIV[class="adv_b"]
 sports.3g.cn##DIV[class="adList"]
