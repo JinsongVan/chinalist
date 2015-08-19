@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150817
+! Version: 20150819
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 17 Aug. 2015 14:53 UTC
+! Last Modified: 19 Aug. 2015 21:20 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Mon, 17 Aug. 2015 14:53:46 + 0800
+!  Wed, 19 Aug. 2015 21:20:41 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -27,6 +27,7 @@
 /DB2927DA968D3599D7126C59B2CF6595
 /Files/ff/gg_635586462692207490.jpg
 /Picture/20150805_105313433.jpg
+/ShowWindow/getFlow5.jsp
 /ShowWindow/toolBarWeb.jsp
 /act/20150707/20150707/20150707.jpg
 /act/20150727/20150727/2.jpg
@@ -68,6 +69,7 @@
 /im/images/2015/careerpost/banner/wap_banner/320_50.jpg
 /im/mobile/m/h5_jczp.jpg
 /images/ad/liebao_android.png
+/images/logoappweb.png
 /images/qv-bg-22.jpg
 /images/wap/wap_newad.jpg
 /images/wap_advpic/1438659028.jpeg
@@ -113,7 +115,8 @@
 /static/wapnews/newwapnew/images/logoa.png
 /tanchuang.
 /ting/pic/item/1e30e924b899a9018b773cd719950a7b0308f595.jpg
-/tlbsserver/jsreq
+/tlbsgui/baseline/scg.js
+/tlbsserver/
 /toolbar/show.bar
 /toolbar/zte-toolbar-iframe.js
 /topad.
@@ -122,6 +125,7 @@
 /upload/2015/07/31662033f3adf2f51e135b32c2409f08.jpg
 /upload_img/00487/11111/banner7-8.png
 /upload_img/00528/111111/H5-0714.jpg
+/www/default/base.js
 /ysm.ezprice.net/*
 /zhuanti/2015/testh5/images/ad2.jpg
 /zhuanti/2015/testh5/images/newapk_space.png
@@ -131,7 +135,6 @@ a.rlxl.com/list/
 googleadsserving.cn/pagead/*
 gs37.com
 http://*.adpro.cn/*
-http://1.179.14.145:1991/tlbsserver/
 http://mt3.baidu.com/timg*F4X1-tongyong-14115.jpg
 m.baidu.com/static/video/video_proxy.js
 pagead.googlesyndication.com/pagead/
@@ -482,6 +485,7 @@ union.rlxl.com/
 ||a4.yeshj.com^
 ||a5.yeshj.com^
 ||a7.com/a/*.js
+||a790.100msh.com/ad.js
 ||aa.sdo.com^
 ||aac4ea54c17b.se^
 ||aad73c55c.se^
@@ -1013,6 +1017,7 @@ union.rlxl.com/
 ||erji.net/ejnew.gif
 ||erji.net/photo/
 ||error.pixplug.in^
+||etc.hzjiajiaolm.com/rb/p.js
 ||etdown.net/images/ad1
 ||etf88.com/swf/
 ||event.udn.com^
@@ -2144,6 +2149,7 @@ union.rlxl.com/
 ||s.tankr.net/n/1.js
 ||s.tankr.net/n/poketec.png
 ||s.u17t.com/leaflet/upload/
+||s.voitsport.com/rb/c.js
 ||s.yimg.com/gs/apex/
 ||s.yimg.com/ja/ap/hk/rm/hk_rm_tab_14.js
 ||s.yimg.com/ja/ap/tw/js/
@@ -3073,6 +3079,7 @@ cj.gw.com.cn###header_media
 cj.gw.com.cn##.banner
 cj.gw.com.cn##.img_ads
 ctrip.com##DIV[id="footer"]
+daily.zhihu.com##.header-for-mobile
 daily.zhihu.com##DIV[class="download-banner"]
 dangdi.qunar.com##DIV[class="DX_load"]
 danhuaer.cn##DIV[id="ad_wx3"][class="dhlist post hentry center"]
@@ -3111,6 +3118,7 @@ ent.ifeng.com##DIV[id="flash_outer__flash_click_9939"]
 ent.sina.cn##LI[class="article_push_pic"]
 fanyi.baidu.com##.appbanner
 finance.sina.cn##DIV[id="client_banner"]
+finance.sina.cn,news.sina.cn,sports.sina.cn,top.sina.cn##body > section:first-child
 finance.sina.cn,sina.cn##LI[class="article_push_pic"]
 fm.baidu.com##DIV[id="ad"]
 g.pconline.com.cn##.m-header-top
@@ -3409,6 +3417,7 @@ m.fengyunzhibo.com##DIV[id="fake-comment"][class="fake-comment"]
 m.fengyunzhibo.com##DIV[id="phone-download"]
 m.fengyunzhibo.com##DIV[id="player-banner"]
 m.fengyunzhibo.com##DIV[id="recomApp"]
+m.finance.caixin.com##.appLink
 m.focus.cn##SECTION[class="index-app-download"]
 m.fun.tv##.g-con.v-player-wrap
 m.fun.tv##.material-banner.f-mgb
@@ -3470,6 +3479,7 @@ m.hupu.com##DIV[id^="div-gpt-ad"]
 m.huxiu.com##DIV[class="hx-ad-app"][id="ad_box_btm"]
 m.huxiu.com##DIV[id="cnzz_fixedslot_ad_88178"]
 m.imdali.com##DIV[id="goClient"][class="goClient"]
+m.iphone.tgbus.com##.glmj
 m.iqiyi.com###bottomNativePopup
 m.iqiyi.com##.alimama
 m.iqiyi.com##.mod-app_banner.mod-app_bbqn
@@ -3731,6 +3741,7 @@ m.toutiao.com##DIV[class="wapapp-index-bottom-banner"]
 m.toutiao.com##DIV[id="app"]
 m.toutiao.com##DIV[id="recommendAds"][class="jqmWindow jqmID1"]
 m.toutiao.com##DIV[id="recommendAds"][class="jqmWindow jqmID3"]
+m.toutiao.com,m.dianping.com##.top-banner
 m.tuniu.com##DIV[class="app_down"]
 m.tuniu.com##DIV[id^="appHeader_"][class="app-header clearfix"]
 m.tuniu.com,dynamic.m.tuniu.com##DIV[class="ad_top"][id="adTop"]
@@ -3860,6 +3871,7 @@ map.sogou.com##DIV[id="desktopAd"]
 map.sogou.com##DIV[id="uiTopAd"][class="uiTopAd"]
 map.wap.qq.com##DIV[id="advert"][class="advert"]
 map.wap.soso.com##DIV[id="advert"][class="advert"]
+mil.sina.cn,sports.sina.cn##.pic-wrap.j_article_cutpic
 mmb.cn##DIV[class^="style_19_"]
 mmb.cn##DIV[class^="style_8_"]
 mmb.cn##DIV[id="top_divs"]
@@ -3921,11 +3933,12 @@ qq.com##DIV[class="news-tips client-tips"]
 qq.com##DIV[id="J_guide"]
 qyer.com##DIV[class="pics"]
 s.m.taobao.com,m.taobao.com,taobao.com##DIV[id="smartAd"]
+sina.cn###picCont
 sina.cn##A[class="ad_client j_client"]
 sina.cn##A[class="ad_client"]
 sina.cn##A[href$="url=http%3a%f%fc.admaster.com.cn%fc%fa149,b3449,c134,i,m11,h%7bwb_uid_md5%7d,u&pos=18&vt=4"]
 sina.cn##A[href^="http://.1.184.178/redirect.php?url="]
-sina.cn##A[id^="jdAdplace"]
+sina.cn##A[id^="jdAd"]
 sina.cn##A[style="display:block;background:rgb5, 5, 5;"]
 sina.cn##BODY > A:first-child
 sina.cn##DIV[class="ad_baner j_imgdelay"]
@@ -3952,11 +3965,9 @@ southcn.com##DIV[class="Gs4"]
 sp.wap.19lou.com##DIV[class="adv_b"]
 sports.3g.cn##DIV[class="adList"]
 sports.3g.cn##DIV[id="drag_ad_large"][class="drag_ad_top"]
-sports.sina.cn##.pic-wrap.j_article_cutpic
 sports.sina.cn##A[href^="http://1.179.193.178/click_one.php?"]
 sports.sina.cn##DIV[id="promotionCover"][class="promotion_cover main"]
 sports.sina.cn##IMG[src="http://d1.sina.com.cn/131/4/5599_cp-335.jpg"]
-sports.sina.cn##body > section:first-child
 star.pclady.com.cn##A[id="ad43"]
 star.pclady.com.cn##DIV[class="nav"]
 star.pclady.com.cn##IFRAME[id="ad34417"]
@@ -4039,11 +4050,10 @@ ui.ptlogin.qq.com##A[id="btn_app_down"][class="banner"]
 ui.ptlogin.qzone.com##A[id="btn_app_down"][class="banner"]
 v.17173.com##DIV[class="clientPop cf"]
 v.3g.ifeng.com##DIV[id="tFpChKd14443"]
+v.ifeng.com###ad_top
+v.ifeng.com###footAD_box
+v.ifeng.com###footAd
 v.ifeng.com##DIV[class="Add_screen js_add_screen"]
-v.ifeng.com##DIV[id="ad_top"][class="ad_top"]
-v.ifeng.com##DIV[id="ad_top"][class="v_ad_top"]
-v.ifeng.com##DIV[id="footAD_box"]
-v.ifeng.com##DIV[id="footAd"][class="v_ad_btm"]
 v.qq.com##DIV[class="mod_app_top_btn"]
 v.qq.com##DIV[class="mod_player_tips"]
 v.yinyuetai.com##SECTION[id="app_tip_area"][class="app-install display-box"]
@@ -4128,13 +4138,6 @@ wapbaike.baidu.com##UL[class="promot-txt"]
 wapbaike.baidu.com##body:nth-child9
 wapbaike.baidu.com##body>div[id]:not([class]):last-of-type
 wapgw.cn##DIV[class="banner"]
-wapiknow.baidu.com##A[class="promotion"]
-wapiknow.baidu.com##A[class^="promotion-"]
-wapiknow.baidu.com##A[class^="relate-banner-"]
-wapiknow.baidu.com##A[data-link^="hhttp"]
-wapiknow.baidu.com##A[data-link^="http"]
-wapiknow.baidu.com##A[data-url^="http"]
-wapiknow.baidu.com##DIV[class="banner-list"]
 wapiknow.baidu.com##DIV[class="mbaby-bottom-dialog"]
 wapiknow.baidu.com##DIV[class="mbaby-dialog-outer"]
 wapiknow.baidu.com##DIV[class="ui-dialog zdapp-dialog zdapp-mybaby-dialog"]
@@ -4272,16 +4275,6 @@ www.yidianzixun.com##DIV[class="bd-fixed-info"]
 www.yidianzixun.com##DIV[class="bf"]
 www.yidianzixun.com##DIV[class="wide-hidden"]
 www.youku.com##DIV[id="addDesktop_iphone"][class="addDesktop_iphone"]
-www.yyets.com##DIV[class="box_1 ads_partner_list"]
-www.yyets.com##DIV[id="floatAD_r"]
-www.yyets.com##DIV[id="yyets_slide_ad"]
-www.yyets.com##DIV[style="margin-bottom:1em; text-align:center;width:7px;overflow:hidden;"]
-www.yyets.com##DIV[style="margin:1em ; text-align:center; width:7px; overflow:hidden;"]
-www.yyets.com##DIV[style="margin:1em ; text-align:left;"]
-www.yyets.com##DIV[style="margin:;padding:;width:4px;height:345px;overflow:hidden;background-color:#fff;"]
-www.yyets.com##DIV[style="text-align:left;"]
-www.yyets.com##div[id="floatAD_l"]
-www.yyets.com##div[style="width:7px;height:1px; overflow:hidden; margin-bottom:1em; text-align:left;"]
 www.zhihu.com##A[id="js-sidebar-app-link"][class="zh-sidebar-app-link android"]
 www.zhihu.com##DIV[id^="shameimaru-question-down-noauth-"][class="zm-side-section shameimaru-section"]
 xiachufang.com##DIV[class="apps-download"]
@@ -4306,12 +4299,6 @@ xw.qq.com##DIV[class="spread"]
 zhe8.com##DIV[class="pop-shortcut stick upon"]
 zhibo8.cc##DIV[id="m_adv"]
 zhidao.baidu.com##.baiduboxapp
-zhidao.baidu.com##A[class="promotion"]
-zhidao.baidu.com##A[class^="promotion-"]
-zhidao.baidu.com##A[class^="relate-banner-"]
-zhidao.baidu.com##A[data-link^="hhttp"]
-zhidao.baidu.com##A[data-link^="http"]
-zhidao.baidu.com##A[data-url^="http"]
 zhidao.baidu.com##DIV[class="banner-list"]
 zhidao.baidu.com##DIV[class="blt554cb"]
 zhidao.baidu.com##DIV[class="bxe554cbs"]
@@ -4330,9 +4317,6 @@ zhidao.baidu.com##DIV[class="w-bottom-fix-banner"]
 zhidao.baidu.com##DIV[class="w-marquee"]
 zhidao.baidu.com##DIV[class="w-middle-banner"]
 zhidao.baidu.com##DIV[class="w-search-list-banner"]
-zhidao.baidu.com##DIV[class="w-top-ban-ner"]
-zhidao.baidu.com##DIV[class="w-top-banner"]
-zhidao.baidu.com##DIV[class="w-top-banner-ucfix"]
 zhidao.baidu.com##DIV[class="we5si7uixx"]
 zhidao.baidu.com##DIV[class="wm-48885"]
 zhidao.baidu.com##DIV[class="wm-975"]
@@ -4340,6 +4324,7 @@ zhidao.baidu.com##DIV[class="www-bbbto-cc"]
 zhidao.baidu.com##DIV[class^="acm"]
 zhidao.baidu.com##DIV[class^="pvu"]
 zhidao.baidu.com##DIV[class^="w-bottom-banner-"] 
+zhidao.baidu.com##DIV[class^="w-top-ban"]
 zhidao.baidu.com##DIV[id="guide-tip"][class="guide-tip"]
 zhidao.baidu.com##DIV[id="lra554cb"]
 zhidao.baidu.com##DIV[id="p-middle-banner"]
@@ -4347,6 +4332,12 @@ zhidao.baidu.com##IMG[src^="http://mt1.baidu.com/timg?wh_rate=&wapiknow&quality=
 zhidao.baidu.com##P[class="download-line"]
 zhidao.baidu.com##P[class="homework-download"]
 zhidao.baidu.com##UL[class="as-list ui-slider"]
+zhidao.baidu.com,wapiknow.baidu.com##A[class="promotion"]
+zhidao.baidu.com,wapiknow.baidu.com##A[class^="promotion-"]
+zhidao.baidu.com,wapiknow.baidu.com##A[class^="relate-banner-"]
+zhidao.baidu.com,wapiknow.baidu.com##A[data-link^="hhttp"]
+zhidao.baidu.com,wapiknow.baidu.com##A[data-link^="http"]
+zhidao.baidu.com,wapiknow.baidu.com##A[data-url^="http"]
 zhihu.com##.app-promotion-bar
 zol.com.cn##DIV[class="google-ad"]
 zol.com.cn##SECTION[class="download-pop"]
