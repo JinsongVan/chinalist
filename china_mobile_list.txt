@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150829
+! Version: 20150906
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 29 Aug. 2015 14:47 UTC
+! Last Modified: 06 Sep. 2015 10:17 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Sat, 29 Aug. 2015 14:47:20 +0800
+!  Sun, 06 Sep. 2015 10:17:05 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -66,6 +66,7 @@
 /dolphin/tianya/2015/07/0_846.jpg
 /dolphin/tianya/2015/07/0_847.jpg
 /dolphin/tianya/2015/08/0_145.jpg
+/dolphin/tianya/2015/08/0_202.jpg
 /duilian./
 /g2/M00/0E/08/ChMlWVW5ifCIaaiDAABvyMSF9EcAAH0PQHDHxQAAG_g882.jpg
 /g5/M00/03/03/ChMkJlXRoHSIU931AABxKxdoV68AAAMxwPU0DsAAHFD813.jpg
@@ -96,7 +97,11 @@
 /media/v1/0f0000mpMO_LbJUxsKSac6.jpg
 /media/v1/0f000KHjStB1GbizU8I3N0.jpg
 /media/v1/0f000KnNg0laqBua6sr0S0.jpg
+/media/v1/0f000jlBjgC6wiIGPvRH3s.webp
 /mmc/a368b48f634681bd4f4dedaeb8e6bde535580.png 	
+/mobile/images/m-ad-jjh-bottom.jpg
+/mobile/images/m4_topad.jpg
+/mobile/images/oil_bot_ad.gif
 /news/pic/item/0b55b319ebc4b745a6e4912ecafc1e178a821591.png
 /pad/images/banner.jpg
 /party/default/40fcc28a648e0d3c2441b3aacb66ad2a.png
@@ -104,6 +109,7 @@
 /pfpghc2/201508/24/0c9daf98ed0849a78c61c39c6e3e73a9.jpg
 /pfpghc2/201508/24/36b01a035ed5481588be1f8dd65aeff0.jpg
 /pfpghc2/201508/24/e32ff899db554cb4b9c294b032c04a8b.jpg
+/pfpghc2/201509/05/1436339f4fef405cb234008d41117b88.jpg
 /piaofu.js
 /pic/150316/1ks48_ie2wkm3egrstkodgmyytambqhayde_268x98.gif
 /pic/150421/baolu_ieytazlghbrtgmtcgazdambqmeyde_192x59.gif
@@ -2894,6 +2900,7 @@ union.rlxl.com/
 3g.baihe.com##A[href="http://3g.baihe.com/html.php?action=download"]
 3g.baihe.com##A[href="http://www.91jianjian.com/3g.html"]
 3g.baihe.com##A[href="http://www.91jianjian.com/emd9.html"]
+3g.china.com###adnavid
 3g.china.com###tanx-fold-main
 3g.china.com###topAD
 3g.china.com##.adclass
@@ -3066,6 +3073,7 @@ baogz.com###head-banner
 baogz.com##.bottom-tips
 bbs.tianya.cn###gg-post-first
 bbs.tianya.cn###gg-post-top
+bbs.tianya.cn,www.tianya.cn##.gg.gg-item
 beauty.yxlady.com,m.jb51.net,m.tiexue.net,m.qiushibaike.com,m.cnbeta.com,m.pengfu.com,3g.d1xz.net##DIV[id^="cproIframe"]
 beauty.yxlady.com,m.wg7.com##DIV[id^="baidu_dup_"]
 blog.ifeng.com###blog_recoment_layer
@@ -3269,10 +3277,12 @@ kuwo.cn###byjyw
 lizhi.fm##.headerWrap
 loto.sina.cn##.app
 loto.sina.cn##.push
+luxury.m.vdolady.com###topfixed
 lvmama.com##.down_logo_bg
 lvyou.baidu.com###book
 m.111.com.cn##.app_box
 m.1234567.com.cn##.jjph_box
+m.1688.com##DIV[class="fui-downbanner "]
 m.17173.com##.gb-list.mod-list1
 m.17173.com##.to-download-app
 m.17173.com##.top-ad-con.ui-link
@@ -3401,6 +3411,11 @@ m.club.sohu.com###ad_top
 m.club.sohu.com##.ad_top
 m.cnbeta.com###google_ads_frame3
 m.cnbeta.com##.adsbygoogle.adslot_1
+m.cngold.org##.ad-h85.ad-boderT
+m.cngold.org##.ad-h85.ad-boderT9.ad-boderB9
+m.cngold.org##.freeHotline-open
+m.cngold.org##.top-ad
+m.cngold.org##A[href="http://jjh.cngold.org/apps/download/"]
 m.cnrencai.com##DIV[id^="u1592445_"]
 m.cnrencai.com##P[style="text-align: center;"]
 m.cntv.cn##.h_top
@@ -3809,6 +3824,7 @@ m.video.baidu.com##.view_poster
 m.vip.com###addToHomeScreen
 m.vip.com##.EMRiEDws
 m.vip.com##.HcupEwLv
+m.vip.com##.IsODlVVG
 m.vip.com##.JAGfCLGr
 m.vip.com##.UWAeAAhK
 m.vip.com##.banner_down
@@ -3971,6 +3987,7 @@ sina.cn##.ad_outline
 sina.cn##.advertise
 sina.cn##.apps_news
 sina.cn##.j_sax.sina_tj_baner
+sina.cn##ASIDE[style="position: relative; padding: 0px 5px 0px 62px; height: 50px; text-decoration: none; color: rgb(255, 255, 255);"]
 sina.cn##A[href$="url=http%3a%f%fc.admaster.com.cn%fc%fa149,b3449,c134,i,m11,h%7bwb_uid_md5%7d,u&pos=18&vt=4"]
 sina.cn##A[href^="http://.1.184.178/redirect.php?url="]
 sina.cn##A[id^="jdAd"]
@@ -4049,6 +4066,7 @@ tieba.baidu.com##.tl_shadow.tl_spread.j_tl_spread.tl_spread_pb
 tieba.baidu.com##DIV[class^="forum_recommend "]
 tieba.baidu.com##LI[class^="first_floor_ad_"]
 top.sina.cn###promotionCover
+top.sina.cn##.sina-art-movie
 touch.17u.cn##.ofix
 touch.17u.cn##.tc-download
 touch.dujia.qunar.com###jq-appendDIV
@@ -4165,6 +4183,7 @@ wapbaike.baidu.com##.promot-txt
 wapbaike.baidu.com##.top-all
 wapbaike.baidu.com##.ui-adddesktop
 wapbaike.baidu.com##DIV[id^="blabla-"]
+wapbaike.baidu.com##DIV[style="height: auto; transition: none; -webkit-transition: none;"]
 wapbaike.baidu.com##body:nth-child9
 wapbaike.baidu.com##body>div[id]:not([class]):last-of-type
 wapgw.cn##.banner
