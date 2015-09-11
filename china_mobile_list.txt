@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150907
+! Version: 20150911
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 07 Sep. 2015 16:56 UTC
+! Last Modified: 11 Sep. 2015 16:24 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Mon, 07 Sep. 2015 16:56:11 +0800
+!  Fri, 11 Sep. 2015 16:24:39 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -2854,7 +2854,6 @@ union.rlxl.com/
 ||zxxk.com/js/articleinfo/JS_
 ||zymao.net/img/taolink.jpg
 ||zyzczs.com/js/tj.txt
-||zz.m.sohu.com/msohu_cv.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !********** Element Hide ************!
@@ -2893,9 +2892,11 @@ union.rlxl.com/
 3g.13.com##.wrap-ad text-link
 3g.13.com##.wrap-text-link text-link
 3g.13.com##A[href="http://3g.13.com/links/381"]
+3g.163.com##.ad-centerPic.ad-youdao
 3g.163.com##.f-d-1
 3g.163.com##.f-d-2
 3g.163.com##.f-d-3
+3g.163.com##.middle-a-d
 3g.5.com###lalal"]
 3g.51job.com##.btm
 3g.51job.com##.lk
@@ -3219,6 +3220,7 @@ i.ifeng.com##A[href^="http://api.3g.ifeng.com/ifengtg?ad"]
 i.ifeng.com##A[href^="http://api.3g.ifeng.com/ifengvideo_tg3?vt="]
 i.ifeng.com##A[href^="http://api.3g.ifeng.com/news/ifengtg?adid="]
 i.ifeng.com##DIV[class^="wordzw"]
+i.ifeng.com##DIV[class~="BoxAdPic"]
 i.ifeng.com##DIV[id^="top"][class="little"]
 i.ifeng.com##DIV[id^="topFixedAd"]
 i.ifeng.com##DIV[id^="topFixedFd"]
@@ -3705,39 +3707,11 @@ m.sogou.com###div_ad
 m.sogou.com###mySwipe
 m.sogou.com##._ad_VR_box
 m.sogou.com##A[href="/book/index.jsp?v=5&uID=SuPz9Tebr1FsgZ&w=1385"]
-m.sohu.com###adArea
-m.sohu.com###article-ad-1
-m.sohu.com###bdhl
-m.sohu.com###beans_1444
-m.sohu.com###beans_1445
-m.sohu.com###mappList
-m.sohu.com###newsdocimg
-m.sohu.com###newsdoctxt
-m.sohu.com###wapnewsimg
-m.sohu.com##.AD_ACT
-m.sohu.com##.Bread_crumbs
-m.sohu.com##._tg
-m.sohu.com##._tgC_nav
-m.sohu.com##.a_bl
-m.sohu.com##.a_dl
-m.sohu.com##.ad13918
-m.sohu.com##.ad13918
-m.sohu.com##.channel_banner_img
-m.sohu.com##.fin_banner
-m.sohu.com##.h4.hot-point-money
-m.sohu.com##.hn.hn1
-m.sohu.com##.ls.bd1
-m.sohu.com##.w.a3
-m.sohu.com##A[href^="http://m.sohu.com/f/J7FBFza/?wscrid="]
-m.sohu.com##A[href^="http://m.sohu.com/f/SohuAppdownload/?_once_="]
-m.sohu.com##A[href^="http://m.sohu.com/f/jU3qea/?wscrid="]
-m.sohu.com##DIV[style="margin-bottom:14px;"]
-m.sohu.com##DIV[style="text-align: center; display: block;"]
-m.sohu.com##SECTION[id^="qinggandoc"]
-m.sohu.com##SECTION[id^="wap"]
-m.sohu.com##img[src="http://i1.itc.cn/133/fc1_a1341_fe18_9d_9fb_ffebbcbc4b_1.jpg"]
-m.sohu.com##p[class="f"][style="font-size:14px"]
-m.sohu.com##p[style="font-size:1px"]
+m.sohu.com##.home_banner_img
+m.sohu.com##.home_banner_text
+m.sohu.com##.iframe-money.hm-btm-ifm-mny
+m.sohu.com##.index-win-money-img
+m.sohu.com##.index-win-money-text
 m.sohu.com,m.shuqiread.com###tip
 m.soufun.com###ad
 m.soufun.com###addToHomeScreen
@@ -4138,6 +4112,7 @@ wap.eastmoney.com##DIV[id^="bn_box_"]
 wap.fmx.cn###fmxbox
 wap.huanqiu.com###huanqiuwang_300_100_a
 wap.huanqiu.com##A[href^="http://118..145.7:77/ad.html?id="]
+wap.huanqiu.com##DIV[id^="starIframe_wrapper_"]
 wap.ithome.com##.app_recom.app_top
 wap.jokeji.cn##.adsbygoogle
 wap.jokeji.cn##IMG[src="/youyuan.jpg"]
