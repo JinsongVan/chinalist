@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150917
+! Version: 20150920
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 17 Sep. 2015 15:03 UTC
+! Last Modified: 20 Sep. 2015 15:03 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Thu, 17 Sep. 2015 15:03:47 +0800
+!  Sun, 20 Sep. 2015 15:03:43 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -54,6 +54,7 @@
 /att_count.js
 /baidu/pic/item/f31fbe096b63f6241c70c7ff8244ebf81a4ca319.jpg
 /baike/pic/item/aceddc451da81cb94359f7451d18431b3.jpg
+/bao/*/8/0/55f22c187ff6e_608x160.jpg
 /bao/150812/b/0/55cb24767f971_656x656.jpg
 /blablaBanner/img/blablaLogo_81f91a.png
 /caipiao/wap/img/downButton.png
@@ -87,6 +88,7 @@
 /img/iknow/wenku/1280x110-hei1.png
 /img/image/app%E6%8E%A8%E5%B9%BF%E4%BD%8D-%E9%A6%96%E9%A1%B51-3-2.jpg
 /img/x11.jpg.pagespeed.ic.Ingn5I-39X.webp
+/imgs/w3g/mmb_bottom_down_v5.png
 /jpwebapp/images/abpic/A.jpg
 /js/ad.
 /js/m/download/wap_kaihu.png
@@ -2990,6 +2992,8 @@ union.rlxl.com/
 3g.kdnet.net##A[href="http://special.kdnet.net/ylpznf/"]
 3g.kdnet.net##A[href="http://wap.nnc18.pw/"]
 3g.kdnet.net##IMG[src="http://3g.kdnet.net/app.gif"]
+3g.mmbang.com###download_bar
+3g.mmbang.com###zal_bottomUrl
 3g.mop.com###iframepage
 3g.mop.com##.ad_word
 3g.mop.com##.yx
@@ -3168,6 +3172,7 @@ fm.baidu.com###ad
 g.pconline.com.cn###JAppdownload
 g.pconline.com.cn###JdlAppTop
 g.pconline.com.cn###JdownloadAppWrap
+g.pconline.com.cn###JucLogin
 g.pconline.com.cn##.artDownloadAPP
 g.pconline.com.cn##.footer-dl
 g.pconline.com.cn##.m-header-top
@@ -3179,7 +3184,7 @@ h.lecai.com##.ads-3-5
 h.lecai.com##.ghost_wrapper
 h5.huazhu.com##.Cpopup.client
 h5.m.zhe800.com##.download_float
-h5.mizhe.com##.download-bar.view-DownLoadBar
+h5.mizhe.com##.download-bar.J-download-bar
 haha.mx##.download
 hao13.com##.m_banner
 hao13.com##.m_banner.m_banner_closeable
@@ -3366,6 +3371,7 @@ m.autohome.com.cn,buy.m.autohome.com.cn##SECTION[class$="15_"]
 m.babytree.com###app_mask
 m.babytree.com##.app_download_guide_ad
 m.babytree.com##.cl19fc29a6.tbc3a063cc93
+m.babytree.com##.dedication.dedication-bottom.dedication-bottom-lite-pregnancy.dedication-bottom-show
 m.babytree.com##.down-recommend
 m.babytree.com##.float-bot
 m.babytree.com##.m-top-ad
@@ -3551,10 +3557,12 @@ m.jb51.net##DIV[class^="yi-adv yi-adv-foot"]
 m.jd.com###down_app
 m.jd.com###home-clientapp-entry
 m.jd.com###index_banner
+m.jd.com###index_banner
 m.jd.com##.new-banner-img.div_banner_download
 m.jd.com##.new-f-banner
 m.jianke.com##.wk_box
 m.jiaoyou.58.com###down_box
+m.jimubox.com##.download
 m.jiuxian.com###contents
 m.jjwxc.com###starIframe_wrapper_1_center
 m.jjwxc.com##A[href="http://m.yuemei.com/app/ym.php?from=jjwxc"]
@@ -3568,6 +3576,7 @@ m.jrj.com.cn##.fboxnew
 m.juanpi.com###alert-box
 m.juanpi.com###zhezhao
 m.juanpi.com##.go-app
+m.juanpi.com##.newad-box.show
 m.jumei.com###app_notice
 m.jumei.com###jumei_location
 m.jumei.com###slider
@@ -3670,6 +3679,8 @@ m.nuomi.com##.w-banner-swipe
 m.nuomi.com##A[class="app-index-app"][href="http://d.nuomi.com/?ddyh"]
 m.okbuy.com####top
 m.pcauto.com.cn###JdownloadAppWrap
+m.pcauto.com.cn###JotherUser
+m.pcauto.com.cn###JucWrap
 m.pcauto.com.cn###JuserLogin
 m.pcauto.com.cn###j-fullColl-a
 m.pcauto.com.cn###m-linkToA
@@ -3679,6 +3690,7 @@ m.people.cn##.ad.center.mt10
 m.people.cn##.tt_ad_img
 m.poco.cn###app_nav_new
 m.poco.cn###mmlike
+m.ppdai.com###topperbar
 m.pps.tv##.dl-tips
 m.pps.tv##.download
 m.pps.tv##.download-syb
@@ -3701,6 +3713,7 @@ m.qidian.com##.app_download
 m.qidian.com##DIV[id^="dmZoneDiv_"]
 m.qiushibaike.com###DIV[id^="_pi"]
 m.qiushibaike.com###qv-banner
+m.quchaogu.com##.container-fluid.app-download
 m.quote.eastmoney.com###abc158de
 m.qzone.com###J_guide
 m.qzone.com###top-banner
@@ -3732,6 +3745,7 @@ m.soufun.com###downclient
 m.soufun.com##.bandown
 m.soufun.com##.f14.padbox8
 m.souyidai.com###AppBanner
+m.springtour.com##.modeltu
 m.suning.com##.app-down
 m.suning.com##.f-l-o-a-t-s-a-l-e.hide
 m.suning.com##.igkegg.w.pr
@@ -3854,6 +3868,7 @@ m.yuedu.163.com##.m-textalert
 m.yunfan.com###__spread_qvod__
 m.zhaopin.com###indexBannerWrap
 m.zhe8.com##.pop-bar.stick
+m.zhe800.com##.topapp.topappcur
 m.zhenai.com###bottom_adv_tip
 m.zhenai.com##.fbi_top_body
 m.zhibo8.cc##.advert.saishi
@@ -3938,6 +3953,7 @@ news.sina.cn##A[href^="http://sports1.sina.cn/luckygame/?from="]
 news.sina.cn,mil.sina.cn,sports.sina.cn##.pic-wrap.j_article_cutpic
 news.sina.com.cn###ad_47200
 news.sina.com.cn###ad_47229
+news.xinhuanet.com##DIV[id^="zc_push_"]
 newsmth.net###left_adv
 newsmth.net##.Smthtwenty_float
 novel.wap.soso.com##.adsbygoogle
@@ -4258,6 +4274,7 @@ www.newsmth.net##.ad
 www.newsmth.net##.ad.full_ad
 www.newsmth.net##.b_adv
 www.newsmth.net##DIV[style="text-align:center"]
+www.paipai.com###appAdBottom
 www.paipai.com###downloadAPP
 www.paipai.com###downloadAPP
 www.qiche1.cn###downLoad1
