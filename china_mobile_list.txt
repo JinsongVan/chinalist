@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20150920
+! Version: 20150923
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 20 Sep. 2015 15:03 UTC
+! Last Modified: 23 Sep. 2015 18:57 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Sun, 20 Sep. 2015 15:03:43 +0800
+!  Wed, 23 Sep. 2015 18:57:33 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -22,6 +22,10 @@
 /14113fmt.gif
 /1491fmt.gif
 /201303/26/482161_240330yaku.jpg
+/2015/*/*/Adhtmlnet_a0e9b1b1-077c-4d52-874d-f66b7142c0e3.jpg
+/2015/*/*/Adhtmlnet_a0e9b1b1-077c-4d52-874d-f66b7142c0e3.jpg
+/2015/*/*/db7b0c9f-d195-441f-a942-720d1d601636.jpg
+/2015/*/*/f20ab1c7-8d35-455a-815c-4e095d227eb1.jpg
 /2015/0104/1420339367479.png
 /2015/0518/1431913680275.jpg
 /201505/f6e72f32889a2641e7ee3bcdb1d99ee0.png
@@ -73,6 +77,12 @@
 /duilian./
 /g2/M00/0E/08/ChMlWVW5ifCIaaiDAABvyMSF9EcAAH0PQHDHxQAAG_g882.jpg
 /g5/M00/03/03/ChMkJlXRoHSIU931AABxKxdoV68AAAMxwPU0DsAAHFD813.jpg
+/ifengimcp/pic/*/2ba59a9abc03cc21f463_size6_w56_h200.jpg
+/ifengimcp/pic/*/56ae8d8b1ad0ee5810d7_size62_w320_h330.png
+/ifengimcp/pic/*/6013e033bd656f9ce557_size14_w640_h96.jpg
+/ifengimcp/pic/*/62266d7f259d0b5c5a66_size15_w640_h96.jpg
+/ifengimcp/pic/*/d0da3e931685322efc6a_size18_w260_h200.jpg
+/ifengimcp/pic/*/fce2f0c4871640027888_size4_w56_h56.png
 /ifengimcp/pic/20150731/687a91e6ff88ed213db1_size22_w640_h130.jpg
 /im/images/2015/careerpost/banner/appxinban/320_50-2.jpg
 /im/images/2015/careerpost/banner/wap_banner/320_50.jpg
@@ -124,6 +134,7 @@
 /pic/3932012482-1438587137635.png
 /picad/
 /pop/jfs/t1741/231/731448129/31239/1ef1a801/55d6f02fN9c981324.jpg
+/pop/jfs/t1810/105/1559900292/15356/455ae18c/55f7d98dN1efa0d76.jpg$domain=sina.cn
 /pubads.
 /public/ads/
 /public/img/entry/title.png
@@ -294,6 +305,7 @@ union.rlxl.com/
 ||345.com/duoteimg/duotehtml/
 ||345.com/xiaoimg/swf/flash/
 ||35zww.com/zzzjs/
+||360buyimg.com^$domain=sina.cn
 ||371.cc/style/ad/
 ||384.com/templets/SWFad
 ||384.com/templets/js/stats.js
@@ -862,6 +874,7 @@ union.rlxl.com/
 ||d.taomato.com/js/HMTP.js
 ||d.xcar.com.cn^
 ||d1.shenchuang.com/a.htm
+||d1.sina.com.cn/*/*/1386361.jpg
 ||d1.sina.com.cn/*/*/4811_433yaku.jpg
 ||d1.sina.com.cn/*/*/5745_ditong.gif
 ||d1.sina.com.cn/*/*/57951.jpg
@@ -2609,6 +2622,7 @@ union.rlxl.com/
 ||x-berry.com/wordpress/wp-content/uploads/14/4/yinsuqidong.gif
 ||x.autoimg.cn/m/news/logo/bj_8X8.jpg
 ||x.jd.com/file/images/logoSsmall.jpg
+||x.jd.com^$domain=sina.cn
 ||xc.macd.cn^
 ||xcy8.com^
 ||xczhibo.com/xml/
@@ -3061,6 +3075,7 @@ auto.sina.cn##.ad
 auto.sina.cn##.multi_ad
 auto.sina.cn##A[href$="url=http%3a%f%flancer-family-13.hylinkgz.cn%fcampaign%f4ys%f&vt=4"]
 autohome.com.cn##.fn_t14_
+autohome.com.cn,gdzjdaily.com.cn,tzfdc.com.cn##.advbox
 baidu.com###bdapp_and
 baidu.com###bdmap_and
 baidu.com###index_view_topad
@@ -3226,7 +3241,6 @@ i.ifeng.com##.ad_list
 i.ifeng.com##.add_pic_word
 i.ifeng.com##.adimg
 i.ifeng.com##.fengtoy
-i.ifeng.com##.footer_fixed
 i.ifeng.com##.linkTxt
 i.ifeng.com##.tuiguang
 i.ifeng.com##.tuiguang1
@@ -3249,6 +3263,7 @@ i.m.cctv.com##A[href="http://.18.1.147:88/forward/tip.jsp?k_f=tp_11&to=http%3A//
 i.meituan.com###download-list
 i.meituan.com###pop
 i.meituan.com##.carousel
+ient.ifeng.com,i.ifeng.com##.footer_fixed
 ifeng.com###client-spread
 ifeng.com###fdRightSide
 ifeng.com###top_all
@@ -3261,6 +3276,10 @@ ifeng.com##.wordzw.wordzwbg
 ifeng.com##A[href^="http://online.3g.ifeng.com/ad/i.php?adid="]
 ifeng.com##DIV[id^="top"][class=" active"]
 image.baidu.com##.ad-promote.pos_23
+inews.ifeng.com##.nvloTSV
+inews.ifeng.com##.wUTjLo
+inews.ifeng.com##DIV[style="display: block; -webkit-transition: -webkit-transform 500ms ease 0ms; transition: -webkit-transform 500ms ease 0ms; -webkit-transform-style: preserve-3d; -webkit-perspective: 1; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px);"]
+inews.ifeng.com##body>div
 info.3g.qq.com###ads1
 info.3g.qq.com###adsmodule
 info.3g.qq.com###head_qing_ad_img
@@ -3274,6 +3293,7 @@ info.3g.qq.com##.top
 info.3g.qq.com##.txt-ad
 info.3g.qq.com,qq.com###header-adtip
 item.m.jd.com###down_app
+item.m.jd.com###m_common_tip_jd_download_tip
 jhs.m.taobao.com###J_BackingAdv
 jhs.m.taobao.com##.android-smart-banner
 jhs.m.taobao.com##.app-download-footer
@@ -3354,8 +3374,10 @@ m.appchina.com##.footer_yyh
 m.armystar.com###cpro_u1352567
 m.autohome.com.cn###ad_4_1
 m.autohome.com.cn###ad_640_1
+m.autohome.com.cn###ad_tuwen_1
 m.autohome.com.cn###tcwl
 m.autohome.com.cn###wz_word_1_1
+m.autohome.com.cn##.adv03.fn-mt.fn-mlr
 m.autohome.com.cn##.adv05.fn-mt
 m.autohome.com.cn##.adv1.fn-mt
 m.autohome.com.cn##.adv3.fn-mt
@@ -3363,6 +3385,8 @@ m.autohome.com.cn##.apptg
 m.autohome.com.cn##.downapp
 m.autohome.com.cn##.downpa
 m.autohome.com.cn##.header
+m.autohome.com.cn##.homepage-application.fn-mt
+m.autohome.com.cn##.x_s110sa2_ro021Yc
 m.autohome.com.cn##DIV[class$="14_"]
 m.autohome.com.cn##DIV[class$="15_"]
 m.autohome.com.cn##DIV[class^="fn_"]
@@ -3749,6 +3773,7 @@ m.springtour.com##.modeltu
 m.suning.com##.app-down
 m.suning.com##.f-l-o-a-t-s-a-l-e.hide
 m.suning.com##.igkegg.w.pr
+m.suning.com##.sn-client-t.detail-fi-xed.cm-hide
 m.suning.com##.sn-client-t.detail-fi-xed.hide
 m.suning.com##.top-dload.w.pr
 m.sunning.com##.download.w.pr
@@ -3868,6 +3893,7 @@ m.yuedu.163.com##.m-textalert
 m.yunfan.com###__spread_qvod__
 m.zhaopin.com###indexBannerWrap
 m.zhe8.com##.pop-bar.stick
+m.zhe800.com##.bottomtip.bottomtipcur
 m.zhe800.com##.topapp.topappcur
 m.zhenai.com###bottom_adv_tip
 m.zhenai.com##.fbi_top_body
@@ -4250,6 +4276,11 @@ www.55langke.com##DIV[id^="ad"]
 www.7k7k.com##.nt-ad
 www.aipai.com###ipad_fav
 www.appgame.com###wallpaper-home
+www.autohome.com.cn###ad_960_11
+www.autohome.com.cn###ad_960_21
+www.autohome.com.cn###ad_960_51
+www.autohome.com.cn###ad_fbanner_00
+www.autohome.com.cn###ad_fbutton_00
 www.budejie.com##.client_comment
 www.cdbeta.com###right4
 www.cdbeta.com##INS[id^="tanxssp-outer-conmm"]
