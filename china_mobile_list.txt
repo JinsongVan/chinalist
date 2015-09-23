@@ -3279,7 +3279,6 @@ image.baidu.com##.ad-promote.pos_23
 inews.ifeng.com##.nvloTSV
 inews.ifeng.com##.wUTjLo
 inews.ifeng.com##DIV[style="display: block; -webkit-transition: -webkit-transform 500ms ease 0ms; transition: -webkit-transform 500ms ease 0ms; -webkit-transform-style: preserve-3d; -webkit-perspective: 1; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px);"]
-inews.ifeng.com##body>div
 info.3g.qq.com###ads1
 info.3g.qq.com###adsmodule
 info.3g.qq.com###head_qing_ad_img
