@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20151008
+! Version: 20151024
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 08 Oct. 2015 11:16 UTC
+! Last Modified: 24 Oct. 2015 16:47 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Thu, 08 Oct. 2015 11:16:05 +0800
+!  Sat, 24 Oct. 2015 16:47:40 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -20,6 +20,7 @@
 /*/*/*/d0c4a0bf-2308-447f-aa71-38f4787f2da6.jpg
 /*/*/*1000x90.jpg
 /*/*/1387208.jpg
+/*/*/1431938653841.png
 /14113fmt.gif
 /1491fmt.gif
 /201303/26/482161_240330yaku.jpg
@@ -46,6 +47,7 @@
 /ad.gif
 /adjs/
 /adpolestar/
+/ads/*/144473068489250600.jpg
 /ads/ad3.
 /ads/images/ads/*.gif
 /ads/images/ads/cjNwDetail/cjNwDetail_tp1_20150703095544520.jpg
@@ -131,11 +133,13 @@
 /mobile/images/m4_topad.jpg
 /mobile/images/oil_bot_ad.gif
 /news/pic/item/0b55b319ebc4b745a6e4912ecafc1e178a821591.png
+/original/*/144290290835990500.png
 /pad/images/banner.jpg
 /party/default/40fcc28a648e0d3c2441b3aacb66ad2a.png
 /pfpghc2/*/*/433f83d202d64a2abc8b3d36825580b3.jpg
 /pfpghc2/*/*/86a702aa5ff248039971a4bb1f467eff.jpg
 /pfpghc2/*/*/fda1dc7f8d6a4b258e00d5d930ff7e8a.jpg
+/pfpghc2/*/16/8b0f4eff00d8424785f08c098fe22d02.jpg
 /pfpghc2/201508/24/69f27f3a01ae44bea3b5d46e796932f7.jpg
 /pfpghc2/201509/15/345c90924db8419d85522119759b9209.jpg
 /piaofu.js
@@ -168,9 +172,12 @@
 /simba/img/TB1xwRfJXXXXXc1XpXXSutbFXXX.jpg
 /static/wapnews/newwapnew/images/logoa.png
 /tanchuang.
+/templates/cyzonev2/img/m/app_download_bottom.png
+/templates/cyzonev2/img/m/article_ad.gif
 /ting/pic/item/1e30e924b899a9018b773cd719950a7b0308f595.jpg
 /tlbsgui/baseline/scg.js
 /tlbsserver/
+/toolbar/show.bar
 /toolbar/show.bar
 /toolbar/zte-toolbar-iframe.js
 /topad.
@@ -185,6 +192,7 @@
 /upload_img/00528/111111/H5-0714.jpg
 /view/middle/image/l60.png
 /vmind.qqvideo.tc.qq.com^
+/www/default/base.js
 /www/default/base.js
 /ysm.ezprice.net/*
 /zhuanti/2015/testh5/images/ad2.jpg
@@ -579,6 +587,7 @@ union.rlxl.com/
 ||aiyidu.com/aiyidu/adver/
 ||aiyuke.com/index.php?c=position&
 ||ali13.net/js/ALi_Site.js
+||alicdn.com/tps/$third-party,domain=sina.cn
 ||alicdn.com/tps/*-1-1.
 ||alicdn.com/tps/*-7-9.
 ||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~ith8.com|~meidebi.com|~qinqintejia.com|~tanx.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
@@ -1327,6 +1336,7 @@ union.rlxl.com/
 ||image.uctrac.com/*/1/ac945fb-4f3-4caa-a7fa-ff51437fb.jpg
 ||image.uctrac.com/*/14/4bb9845-d33d-4711-b8f-875dc8494e7.jpg
 ||image.wenweipo.com/*/ad_
+||image.xghylt.com/newad/
 ||image.xinmin.cn/*/*/*/141111479938.swf
 ||image.xinmin.cn/*/*/*/14111417443874374.jpg
 ||image.xinmin.cn/*/*/*/1411194518991.jpg
@@ -1756,6 +1766,7 @@ union.rlxl.com/
 ||mitbbs.com/ad_
 ||mitbbs.com/servicedata/static_ad.php
 ||mlbuy.com/gg.js
+||mlt01.com/tos/$third-party,domain=sina.cn
 ||mm387.com/images/*.gif
 ||mmbiz.qpic.cn/mmbiz/$domain=info.3g.qq.com
 ||mmcdn.cn/simba/img/*.jpg
@@ -2858,6 +2869,8 @@ adong3.blog.13.com##.w-mobileadfullscreen.f-trans.js-mobileadfullscreen-show
 aibang.com##.p1
 aibang.com##IMG[src="http://img.aibangjuxin.com/ipic/3e7c3bc13d1d84_.jpg"]
 aipai.com##.share_app
+app.qlwb.com.cn##.ad-widget-imageplus-sticker
+app.qlwb.com.cn##.yuetu-float-layer.yuetu-float-layer-arrow
 auto.sina.cn##.ad
 auto.sina.cn##.multi_ad
 auto.sina.cn##A[href$="url=http%3a%f%flancer-family-13.hylinkgz.cn%fcampaign%f4ys%f&vt=4"]
@@ -2892,7 +2905,6 @@ baogz.com##.bottom-tips
 bbs.tianya.cn###gg-post-first
 bbs.tianya.cn###gg-post-top
 bbs.tianya.cn,www.tianya.cn##.gg.gg-item
-beauty.yxlady.com,m.wg7.com##DIV[id^="baidu_dup_"]
 bendibao.com###u1446046_0_wrap
 blog.ifeng.com###blog_recoment_layer
 blog.sina.cn###pl-appdownload-bar
@@ -3233,6 +3245,7 @@ m.bendibao.com##DIV[style="text-align: center; display: block; font-size: px; wi
 m.bookbao.com##A[href="http://www.book199.com/shubao.apk"]
 m.cai88.com##.loading hide + A
 m.cai88.com##A[style="position: fixed; left: px; bottom: px; width: 1%; height: 5px; background-color: rgba, , , .7191;"]
+m.cankaoxiaoxi.com##.tt_ad_img
 m.cctv.com###mySwipe
 m.chinabyte.com##.adv_CB_homepage_wap_column1
 m.chinabyte.com##DIV[style="text-align:center;"]
@@ -3260,6 +3273,8 @@ m.ctrip.com###dl_app
 m.ctrip.com###dl_app
 m.ctrip.com##.c_pop_wrap.jspop.c_pop_showing
 m.ctrip.com##.pop_download
+m.cyzone.cn##.app-download-bottom.animated.headroom--not-top.fadeInUp
+m.cyzone.cn##.article-ad
 m.dafucai.com###adContent
 m.dajie.com##.i-app-banner-ad
 m.damai.cn###footerDiv
@@ -3380,11 +3395,14 @@ m.jd.com##.new-banner-img.div_banner_download
 m.jd.com##.new-f-banner
 m.jianke.com##.wk_box
 m.jiaoyou.58.com###down_box
+m.jiemian.com###js-b-ad
+m.jiemian.com##.article-ad
 m.jimubox.com##.download
 m.jiuxian.com###contents
 m.jjwxc.com###starIframe_wrapper_1_center
 m.jjwxc.com##A[href="http://m.yuemei.com/app/ym.php?from=jjwxc"]
 m.jjwxc.com##DIV[style=";width:393px;;height:61.40625px;display:block;position:relative"]
+m.jjwxc.com##IFRAME[style="display:block;width:100%;height:61px;"]
 m.job5156.com###jsAppAd
 m.joy.cn###top
 m.joy.cn##.con-3
@@ -3601,6 +3619,8 @@ m.toutiao.com##.jqmOverlay
 m.toutiao.com##.promo-banner-index
 m.toutiao.com##.toutiao-app.app-banner
 m.toutiao.com##.wapapp-index-bottom-banner
+m.toutiao.com##DIV[class^="pagelet"]
+m.toutiao.com##DIV[style="display: block; -webkit-transform-origin: 0px 0px 0px; opacity: 1; -webkit-transform: scale(1, 1);"]
 m.toutiao.com,m.dianping.com##.top-banner
 m.tuniu.com##.app_down
 m.tuniu.com##DIV[id^="appHeader_"][class="app-header clearfix"]
@@ -3804,6 +3824,7 @@ qq.com###J_guide
 qq.com##.news-tips.client-tips
 qyer.com##.pics
 s.m.taobao.com,m.taobao.com,taobao.com###smartAd
+sale.jd.com###down_app_header
 sina.cn###j_adImgUp
 sina.cn###j_ad_img_swipe
 sina.cn###picCont
@@ -3897,6 +3918,7 @@ tieba.baidu.com##.tl_shadow.tl_spread.j_tl_spread.tl_spread_pb
 tieba.baidu.com##DIV[class^="forum_recommend "]
 tieba.baidu.com##LI[class^="first_floor_ad_"]
 top.sina.cn###promotionCover
+top.sina.cn##.date_right_team_pic
 top.sina.cn##.sina-art-movie
 touch.17u.cn##.ofix
 touch.17u.cn##.tc-download
@@ -4054,8 +4076,10 @@ weather.com.cn##.post_st
 weather.com.cn##div[class^="adpos"]
 webapp.cbs.baidu.com##.stream-banner.fix-banner.hide
 webapp.cbs.baidu.com##.stream-banner.hide
+wk.baidu.com###tgbottom1
 wk.baidu.com###wkad1
 wk.baidu.com##.ad4yd"]
+wk.baidu.com##.bd-logo4
 wk.baidu.com##.changeAd
 wk.baidu.com##.j_item.advContent.imageAdv.bottomAdv
 wk.baidu.com##.j_item.advContent.imageAdv.topAdv
@@ -4100,6 +4124,7 @@ www.leiphone.com###weixinmp
 www.lh58.com###iframe1
 www.lh58.com##.r
 www.mandyvincent.com##.cap-top
+www.newsmth.net###b_adv
 www.newsmth.net###ban_ner
 www.newsmth.net###preImg
 www.newsmth.net###sogou_banner
@@ -4157,6 +4182,9 @@ www.yidianzixun.com##.wide-hidden
 www.youku.com###addDesktop_iphone
 www.zhihu.com###js-sidebar-app-link
 www.zhihu.com##DIV[id^="shameimaru-question-down-noauth-"][class="zm-side-section shameimaru-section"]
+xghylt.com###portal_block_176
+xghylt.com##.index_fivead.cl
+xghylt.com##.mb5
 xiachufang.com##.apps-download
 xiami.com##.dialog-sweet
 xiami.com##.open-app
@@ -4218,4 +4246,5 @@ zhihu.com##.app-promotion-bar
 zol.com.cn##.google-ad
 zol.com.cn##SECTION[class="download-pop"]
 zuoye.baidu.com##.app-ads
+zx.sina.cn##.j_sax.tj_art_baner
 !************* The End **************!
