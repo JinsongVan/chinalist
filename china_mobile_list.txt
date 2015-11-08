@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20151103
+! Version: 20151108
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 03 Nov. 2015 15:01 UTC
+! Last Modified: 08 Nov. 2015 16:21 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Tue, 03 Nov. 2015 15:01:10 +0800
+!  Sun, 08 Nov. 2015 16:21:14 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -98,6 +98,7 @@
 /im/mobile/m/h5_jczp.jpg
 /images/ad/liebao_android.png
 /images/logoappweb.png
+/images/menu_persion_btn.png$third-party,domain=sina.cn
 /images/qv-bg-22.jpg
 /images/wap/wap_newad.jpg
 /images/wap_advpic/1438659028.jpeg
@@ -105,6 +106,7 @@
 /img/ad_
 /img/iknow/wenku/1280x110-bai.png
 /img/iknow/wenku/1280x110-hei1.png
+/img/image/1013-2%EF%BC%8D2.png
 /img/image/app%E6%8E%A8%E5%B9%BF%E4%BD%8D-%E9%A6%96%E9%A1%B51-3-2.jpg
 /img/x11.jpg.pagespeed.ic.Ingn5I-39X.webp
 /imgs/w3g/mmb_bottom_down_v5.png
@@ -509,6 +511,7 @@ union.rlxl.com/
 ||9.net/show/all.js
 ||9.net/show/bt.js
 ||9.net/show/index_
+||90011.fz863.com^
 ||911-sss.com/js/alls_
 ||91danji.com/images/douzhanhou*.jpg
 ||91danji.com/js/lmt.js
@@ -2427,6 +2430,7 @@ union.rlxl.com/
 ||www.wayos.net/ads/
 ||www.xinmin.cn/close.gif
 ||www.xinmin.cn/flash.gif
+||www6.zwant.cn^
 ||wx.5.com/youxitg/
 ||wx.sina.com.cn/iframe/pdps/
 ||wz.com/adv/
@@ -3065,6 +3069,7 @@ i.ifeng.com##A[href^="http://api.3g.ifeng.com/ifengvideo_tg3?vt="]
 i.ifeng.com##A[href^="http://api.3g.ifeng.com/news/ifengtg?adid="]
 i.ifeng.com##DIV[class^="wordzw"]
 i.ifeng.com##DIV[class~="BoxAdPic"]
+i.ifeng.com##DIV[id$="1142"]
 i.ifeng.com##DIV[id^="top"][class="little"]
 i.ifeng.com##DIV[id^="topFixedAd"]
 i.ifeng.com##DIV[id^="topFixedFd"]
@@ -3113,6 +3118,7 @@ info.3g.qq.com##.top
 info.3g.qq.com##.txt-ad
 info.3g.qq.com##P[style="white-space: normal;"]
 info.3g.qq.com,qq.com###header-adtip
+international.dbw.cn##DIV[style="margin:10px auto 0 auto;padding:0;width:640px;height:345px;overflow:hidden;background-color:#fff;]
 item.m.jd.com###down_app
 item.m.jd.com###m_common_tip_jd_download_tip
 jhs.m.taobao.com###J_BackingAdv
@@ -3253,6 +3259,8 @@ m.baidu.com##.page_view_btmad
 m.baidu.com##.poster_tonglan
 m.baidu.com##.ui-topbannerad
 m.baidu.com##.xs-noperate.clear
+m.baidu.com##A[href="http://e.baidu.com/m2/?refer=209"]
+m.baidu.com##A[href="http://uil.cbs.baidu.com/urlsafe/redirect?rid=100054"]
 m.baidu.com##DIV[data-role="page_view_btmad"]
 m.baidu.com##DIV[data-role="page_view_topad"]
 m.baidu.com##DIV[style="margin-top: 1px; display: block;"]
@@ -3318,6 +3326,7 @@ m.dianying.baidu.com##.movieindex-widget-pushmobile.bnjs
 m.dmzj.com###khdDown
 m.dongqiudi.com###top
 m.douban.com###promotion-ad-douban
+m.douguo.com##.dgmsx
 m.duitang.com###androidflag
 m.etao.com##.J_SwipeLayer.swipe-layer
 m.fadoushi.com##.weixin-bottom
@@ -3725,6 +3734,7 @@ m.youdao.com##.zhushou-dl
 m.yougou.com###openApp_header
 m.yuedu.163.com##.m-textalert
 m.yunfan.com###__spread_qvod__
+m.yz.sm.cn###hdx-hongbao
 m.zhaopin.com###indexBannerWrap
 m.zhe8.com##.pop-bar.stick
 m.zhe800.com##.bottomtip.bottomtipcur
