@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20151216
+! Version: 20160119
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 16 Dec. 2015 17:29 UTC
+! Last Modified: 19 Jan. 2016 16:09 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Wed, 16 Dec. 2015 17:29:55 +0800
+!  Tue, 19 Jan. 2016 16:09:19 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
