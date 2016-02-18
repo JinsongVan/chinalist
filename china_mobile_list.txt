@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20160119
+! Version: 20160218
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 19 Jan. 2016 16:09 UTC
+! Last Modified: 18 Feb. 2016 17:01 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Tue, 19 Jan. 2016 16:09:19 +0800
+!  Thu, 18 Feb. 2016 17:01:45 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -20,6 +20,7 @@
 /*/*/*/d0c4a0bf-2308-447f-aa71-38f4787f2da6.jpg
 /*/*/*1000x90.jpg
 /*/*/1387208.jpg
+/*/*/1408014_640-200.jpg
 /*/*/1431938653841.png
 /14113fmt.gif
 /1491fmt.gif
@@ -33,6 +34,7 @@
 /201505/f6e72f32889a2641e7ee3bcdb1d99ee0.png
 /201507/06/1122248_tl03.jpg
 /201507/74f10013d7fae902b67424286c12e313.jpg
+/201601/16/1407266.jpg
 /2909/19d5ef29c46b4046a91e56c5527517bb.jpg
 /55cb0fd933ccd.png
 /Content/Html5V3/images/H5_tuijian.jpg
@@ -70,6 +72,7 @@
 /caipiao/wap/img/downButton.png
 /caipiao/wap/img/touchLogo2.png
 /channel12/020394/620100_0.jpg
+/channel4/html/wap_taobao_article.html$domain=3g.163.com
 /channel5/020222/600100a_150813.jpg
 /clicktotal/ClickTotal.js
 /common_m/m_index/images/ad_home1.png
@@ -92,6 +95,7 @@
 /ifengimcp/pic/*/6013e033bd656f9ce557_size14_w640_h96.jpg
 /ifengimcp/pic/*/62266d7f259d0b5c5a66_size15_w640_h96.jpg
 /ifengimcp/pic/*/d0da3e931685322efc6a_size18_w260_h200.jpg
+/ifengimcp/pic/*/e6c8e2630f0f6adb7353_size22_w600_h130.jpg
 /ifengimcp/pic/*/fce2f0c4871640027888_size4_w56_h56.png
 /ifengimcp/pic/20150731/687a91e6ff88ed213db1_size22_w640_h130.jpg
 /im/images/2015/careerpost/banner/appxinban/320_50-2.jpg
@@ -120,18 +124,28 @@
 /m/app_img/colse_ico.png
 /m_mobile/ad_image/ll480150618.gif
 /main/s?
+/mappa/*/1e7276d12017388941c4b2b1748cd9dd.jpg
+/mappa/*/434ee9f5f9617e2c499556578801b3da.jpg
+/mappa/*/4eaff25a98ced38a2625b90d9c0e2dcd.png
+/mappa/*/6fcf4dbe1c4c42fec3562dd2805b4386.jpg
+/mappa/*/a0ae944a4ca8ce8739e22b75b0e65482.jpg
+/mappa/*/dd25f50707951cc95f23131fef14c439.jpg
+/mappa/*/e52b6a5bbd6dcbe90722db5b648f29db.jpg
+/mappa/*/e87d088a8579bc79c08496796627508d.jpg
 /material/3f/2/79a2f615b037bf7505d3dd60ac936.jpg
 /material/87/a/99e6f96806544f59371b7a9e40892.jpg
 /material/c0/3/909edbf691ac874fe0dfed6988df3.png
 /material/d6/7/430d607d030bff1d59a4a467762e1.jpg
 /media/v1/0f0000mpMO_LbJUxsKSac6.jpg
 /media/v1/0f00052A6IyTZsepYNkIzf.webp
+/media/v1/0f00075BZgW_OTFE4H9mAs.webp
 /media/v1/0f0007y3CMHEvj1woxXb96.jpg
 /media/v1/0f000DlV0rhc4dsOYHhQF6.gif
 /media/v1/0f000KHjStB1GbizU8I3N0.jpg
 /media/v1/0f000KnNg0laqBua6sr0S0.jpg
 /media/v1/0f000cHte3MbfbViEiNzF0.jpg
 /media/v1/0f000jlBjgC6wiIGPvRH3s.webp
+/media/v1/0f000nLL_XxlZ_gDBFDwY6.webp
 /media/v1/0f000nSpbe-RfHb-AqvWQs.webp
 /mmc/a368b48f634681bd4f4dedaeb8e6bde535580.png 	
 /mobile/images/m-ad-jjh-bottom.jpg
@@ -160,6 +174,7 @@
 /picad/
 /pop/jfs/t1741/231/731448129/31239/1ef1a801/55d6f02fN9c981324.jpg
 /pop/jfs/t1810/105/1559900292/15356/455ae18c/55f7d98dN1efa0d76.jpg$domain=sina.cn
+/pop/jfs/t2455/280/2109805253/25370/128427df/56a18d74Ne1fd12d5.jpg$domain=3g.163.com
 /pubads.
 /public/ads/
 /public/img/entry/title.png
@@ -177,6 +192,7 @@
 /simba/img/TB1PgxLJpXXXXcSXVXXSutbFXXX.jpg$domain=blog.sina.cn
 /simba/img/TB1SBw2KXXXXXX.XVXXSutbFXXX.jpg$third-party,domain=news.ifeng.com
 /simba/img/TB1xwRfJXXXXXc1XpXXSutbFXXX.jpg
+/static/img/extension.png
 /static/wapnews/newwapnew/images/logoa.png
 /tanchuang.
 /templates/cyzonev2/img/m/app_download_bottom.png
@@ -214,6 +230,7 @@ gs37.com
 http://*.adpro.cn/*
 http://mt3.baidu.com/timg*F4X1-tongyong-14115.jpg
 m.baidu.com/static/video/video_proxy.js
+m.cnbeta.com.cbimage-fixed
 pagead.googlesyndication.com/pagead/
 pgdt.gtimg.cn/gdt/0/CAAAqzCDVBWGGk3A2NzMG4r.jpg$third-party,domain=info.3g.qq.com
 pgdt.gtimg.cn/gdt/0/CAADGeKAKBV47QTAXmeK0_R.jpg
@@ -869,6 +886,7 @@ union.rlxl.com/
 ||d1.sina.com.cn/131//53833.jpg
 ||d1.sina.com.cn/147/9/51.jpg
 ||d1.sina.com.cn/153/31/599811.jpg
+||d1.sina.com.cn/201601/22/1407991.jpg
 ||d1.sina.com.cn/mediav/*/*/5f1eeaa8741cd495a49311ddfde_57895.jpg
 ||d1.sina.com.cn/mediav/*/*/b74557a5cc98d87f715888b5_57139.jpg
 ||d1.sina.com.cn/pfpghc/efa738543fe4ca8aa31c4faee78.jpg
@@ -1456,6 +1474,9 @@ union.rlxl.com/
 ||img1.1.net/channel/15/1878/41_119a.jpg
 ||img1.1.net/channel/15/1878/41_11a.jpg
 ||img1.126.net/channel12/021274/640100_1027.jpg
+||img1.126.net/channel4/022051/320320_0122.jpg
+||img1.126.net/channel4/022052/1080576_1231.jpg
+||img1.126.net/channel4/022063/bt080170_0121.jpg
 ||img1.417.cn/touch/cn/shouye/4./iconfish...1.png
 ||img1.autofan.com.cn/swf/
 ||img1.cache.netease.com/3g/img11/3gtouch13/newsappdownload1.jpg
@@ -1819,6 +1840,7 @@ union.rlxl.com/
 ||myhack58.com/js/top
 ||mzyz.com/image/tj/
 ||n.hk/promo/
+||n.sinaimg.cn/dae7ff0c/20151010/bg_1.jpg
 ||n.sinaimg.cn/default/*/avxeafr48998.png
 ||namipan.cc/baidu/
 ||namipan.cc/includes/js/digg.js
@@ -2185,6 +2207,7 @@ union.rlxl.com/
 ||static.1eb.com/www/img/rili.gif
 ||static.acs8.com/creative/9341/118141/4x38_14113358.gif
 ||static.babytreeimg.com/img/diversion/Group1.png
+||static.cnbetacdn.com/320-50.png
 ||static.colafile.com/images/vip.png
 ||static.doyouhike.net/partner/
 ||static.fzdm.com/foot
@@ -2230,6 +2253,7 @@ union.rlxl.com/
 ||sz11.net/ac3/
 ||szhk.com/ads/
 ||t.58xs.com/hot/
+||t10.baidu.com/it/$domain=m.jiangsu.china.com.cn|m.guancha.cn
 ||t5.net/ad*/
 ||taihainet.com/biz/
 ||taihe.net/js/ad
@@ -2430,6 +2454,7 @@ union.rlxl.com/
 ||www.chinabyte.com/w/a/*/bd-11-5.jpg
 ||www.dpfile.com/toevent/img/3cbabeaae1755c119b3d73.png
 ||www.qiushibaike.com/static/images/qv-bg.png?v=ac79
+||www.sinaimg.cn/cj/2015/0824/U10832P31DT20150824180612.jpg
 ||www.t259.cc/pic/8.gif
 ||www.wayos.net/ads/
 ||www.xinmin.cn/close.gif
@@ -2573,6 +2598,7 @@ union.rlxl.com/
 ||y1.ifengimg.com/mappa/13/8/14/377987a35a835cf18eb8d3afba.jpg
 ||y1.ifengimg.com/mappa/15/*/*/3fad5b718558d811987ce14cb.jpg
 ||y1.ifengimg.com/mappa/15/*/*/8d38dead54e544e91f1da1e4d41.jpg
+||y3.ifengimg.com/8d182615793a9f4b/*/iframe.html$domain=inews.ifeng.com
 ||y3.ifengimg.com/a/14_41/1c1998aa.png
 ||y3.ifengimg.com/ifengimcp/pic/*/13c89737bcbd3485dc_size4_w3_h1.jpeg
 ||y3.ifengimg.com/ifengimcp/pic/*/1a7ebf718dff7895f7a_size13_w3_h48.jpg
@@ -2693,6 +2719,7 @@ union.rlxl.com/
 ##A[class="article_link clearfix vwo-relate-article "]
 ##DIV[id^="BAIDU_DUP_"]
 ##DIV[id^="BAIDU_EXP_SSP_"]
+##DIV[id^="BAIDU_UNION_"]
 ##DIV[id^="baidu_dup_"]
 ##DIV[id^="cproIframe"]
 ##DIV[id^="tanxmobile-outer-"]
@@ -2732,12 +2759,17 @@ union.rlxl.com/
 3g.13.com##.wrap-text-link text-link
 3g.13.com##A[href="http://3g.13.com/links/381"]
 3g.163.com##.ad-centerPic.ad-youdao
+3g.163.com##.article_ad
 3g.163.com##.f-d-1
 3g.163.com##.f-d-2
 3g.163.com##.f-d-3
 3g.163.com##.gg-centerPic.gg-yd
 3g.163.com##.middle-a-d
 3g.163.com##.top-gg
+3g.163.com##.u_floatad.start
+3g.163.com##.u_topad
+3g.163.com##DIV[style="position:absolute;top:0px;left:0px;width:100%;height:100%;"]
+3g.163.com##a_adtemp.a_tbad.js-tbad
 3g.5.com###lalal"]
 3g.51job.com##.btm
 3g.51job.com##.lk
@@ -2893,6 +2925,7 @@ aibang.com##IMG[src="http://img.aibangjuxin.com/ipic/3e7c3bc13d1d84_.jpg"]
 aipai.com##.share_app
 app.qlwb.com.cn##.ad-widget-imageplus-sticker
 app.qlwb.com.cn##.yuetu-float-layer.yuetu-float-layer-arrow
+app.qq.com###old-floatingad
 auto.sina.cn##.ad
 auto.sina.cn##.multi_ad
 auto.sina.cn##A[href$="url=http%3a%f%flancer-family-13.hylinkgz.cn%fcampaign%f4ys%f&vt=4"]
@@ -3020,6 +3053,7 @@ g.pconline.com.cn###JucLogin
 g.pconline.com.cn##.artDownloadAPP
 g.pconline.com.cn##.footer-dl
 g.pconline.com.cn##.m-header-top
+g.pconline.com.cn##DIV[style="display:block!important;"]
 game.wo.com.cn##.nmarket
 ggmee.com###main_ly
 gp.3g.qq.com###head_qing_ad
@@ -3097,6 +3131,7 @@ ient.ifeng.com,i.ifeng.com##.footer_fixed
 ifeng.com###client-spread
 ifeng.com###fdRightSide
 ifeng.com###jdAdBox
+ifeng.com###mobile_gg_undefined
 ifeng.com###top_all
 ifeng.com###topbrVK14738
 ifeng.com##$type=cookie,action={
@@ -3404,6 +3439,7 @@ m.hexun.com##A[onclick^="showAd"]
 m.hexun.com##DIV[style="margin-bottom:10px;"]
 m.hiapk.com##.apkAdv
 m.hiapk.com##.apkAdvfont
+m.hiapk.com##.download-appbanner
 m.hongxiu.com###adv
 m.hongxiu.com###tip_download
 m.hongxiu.com###tip_download
@@ -3430,6 +3466,7 @@ m.iqiyi.com###bottomNativePopup
 m.iqiyi.com###nativeAppPop
 m.iqiyi.com##.alimama
 m.iqiyi.com##.mod-app_banner.mod-app_bbqn
+m.iqiyi.com##.mod-qq-browser-fix
 m.it18.com##.download
 m.it18.com##.fu
 m.jb51.net##DIV[class^="yi-adv yi-adv-foot"]
@@ -3524,6 +3561,7 @@ m.mail.13.com###promotion
 m.mangocity.com###download-pop
 m.manzuo.com###dlp
 m.mayi.com##.ad
+m.mayi.com##.fc2015.clearfix
 m.meilishuo.com###slideOpen
 m.meilishuo.com##.daoliuBanner
 m.meilishuo.com##.headApp
@@ -4125,6 +4163,7 @@ wapp.baidu.com##.j_client_bottom
 wapp.baidu.com##.j_client_bottom.client_bottom_banner
 wapp.baidu.com##.s_ads
 wapp.baidu.com##.s_adssy
+wapwenku.baidu.com###cpro_u1530398
 wapwenku.baidu.com###tgbottom1
 wapwenku.baidu.com##.ad4yd
 wapwenku.baidu.com##.changeAd
@@ -4187,6 +4226,7 @@ www.leiphone.com###weixinmp
 www.lh58.com###iframe1
 www.lh58.com##.r
 www.mandyvincent.com##.cap-top
+www.miui.com##.float_download
 www.newsmth.net###b_adv
 www.newsmth.net###ban_ner
 www.newsmth.net###preImg
