@@ -1,15 +1,15 @@
 ! [AdBlock Plus 2.1]
-! Version: 20160218
+! Version: 20171206
 ! Title: China Mobile List
 ! Chinese supplement for the AdBlock filters
-! Last Modified: 18 Feb. 2016 17:01 UTC
+! Last Modified: 06 Dec. 2017 23:31 UTC
 ! Expires: 5 days(update frequency)
 !
 ! Please report any unblocked adverts or problems
 ! or via e-mail(jinsong.van@gmail.com).
 !
 ! Fork of: ChinaList https://github.com/JinsongVan/chinalist
-!  Thu, 18 Feb. 2016 17:01:45 +0800
+!  Tue, 06 Dec. 2017 23:31:45 +0800
 !*** china-mobile-list.txt ***!
 *://*.com/ad.
 .cc/ads/
@@ -147,7 +147,7 @@
 /media/v1/0f000jlBjgC6wiIGPvRH3s.webp
 /media/v1/0f000nLL_XxlZ_gDBFDwY6.webp
 /media/v1/0f000nSpbe-RfHb-AqvWQs.webp
-/mmc/a368b48f634681bd4f4dedaeb8e6bde535580.png 	
+/mmc/a368b48f634681bd4f4dedaeb8e6bde535580.png
 /mobile/images/m-ad-jjh-bottom.jpg
 /mobile/images/m4_topad.jpg
 /mobile/images/oil_bot_ad.gif
@@ -3134,7 +3134,6 @@ ifeng.com###jdAdBox
 ifeng.com###mobile_gg_undefined
 ifeng.com###top_all
 ifeng.com###topbrVK14738
-ifeng.com##$type=cookie,action={
 ifeng.com##.acAdPic
 ifeng.com##.acAdPic.acAdPic2
 ifeng.com##.ifgBoxAdPic.noborder
@@ -4337,7 +4336,7 @@ zhidao.baidu.com##.wm-975
 zhidao.baidu.com##.www-bbbto-cc
 zhidao.baidu.com##DIV[class^="cfs"]
 zhidao.baidu.com##DIV[class^="rjk"]
-zhidao.baidu.com##DIV[class^="w-bottom-banner-"] 
+zhidao.baidu.com##DIV[class^="w-bottom-banner-"]
 zhidao.baidu.com##DIV[class^="w-top-ban"]
 zhidao.baidu.com##IMG[src^="http://mt1.baidu.com/timg?wh_rate=&wapiknow&quality=&size=w4&sec=&di="]
 zhidao.baidu.com,wapiknow.baidu.com##.promotion
